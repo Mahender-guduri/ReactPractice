@@ -19,7 +19,8 @@ import DataFetching from './componetFun/DataFetching';
       <IntervalHook />
       */}
 
-      <DataFetching />// i made some edits in app js
+      <DataFetching /> 
+      {/* // i made some edits in app js */}
     
     </div>
   )
